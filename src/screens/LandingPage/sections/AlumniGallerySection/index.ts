@@ -1,0 +1,1 @@
+export { AlumniGallerySection } from "./AlumniGallerySection";
